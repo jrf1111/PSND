@@ -2,6 +2,19 @@
 
 
 
+In 2017, the City of Dallas partnered with federal and state law enforcement agencies to reduce recent increases in violent crime, especially firearm violence. The *Project Safe Neighborhoods: Dallas* (PSND) task force identified a target area for intervention based on the area’s high crime rate and vulnerable population. 
+
+The target area largely overlaps with the authors’ institutional service area, with the trauma center located centrally in the target area. This study examined if violent crime in the target area was reduced after PSND launched in April 2018. Additionally, we examined what effect PSND had on the rate of patients presenting to the trauma center for firearm and assaultive injuries.
+
+<br>
+
+<img src="/Map of DPD regions and THD service area.png" alt="Figure showing trauma patient volume" width="80%"/>
+
+
+<br>
+<br>
+
+
 ## Violent crime rates
 
 Violent crime includes robbery, aggravated assault, & murder/non-negligent homicide.  
@@ -44,7 +57,7 @@ Violent crime in the target area of Dallas |  Violent crime in the non-target ar
 :-------------------------:|:-------------------------:
 <img src="/model-internal-change-res-PSND-3.png" alt="" width="100%"/>  |  <img src="/model-internal-change-res-non-target-3.png" alt="" width="100%"/>
 
-First derivatives >0 indicate violent crime is increasing. First derivatives <0 indicate violent crime is decreasing. When the 95% CI for the first derivatives does not contain 0, that indicates a period of significant change; these periods are shown with darker grays and bolded lines. 
+<sub><sup>First derivatives >0 indicate violent crime is increasing. First derivatives <0 indicate violent crime is decreasing. When the 95% CI for the first derivatives does not contain 0, that indicates a period of significant change; these periods are shown with darker grays and bolded lines. </sup></sub>
 
 
 <br>
@@ -70,41 +83,68 @@ Estimates of the first derivatives were used to find and determine periods of si
 
 ---
 
+<br>
+<br>
+<br>
+
+<img src="/Patient volume rates for web.png" alt="Figure showing trauma patient volume" width="50%" align="right"/>
+
+<br>
+<br>
+
 After long-running decreases, firearm & assaultive injuries began to rise after PSND.  
 
-# STOPPED HERE
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-<img src="/Patient volume rates for web.png" alt="Figure showing trauma patient volume" width="80%"/>
+
+
+
+Assaultive Injuries |  Firearm Injuries
+:-------------------------:|:-------------------------:
+Assaultive injuries increased significantly from June 2019 to December 2019.  |  Firearm injuries increased significantly from July 2018 through December 2020.
+<img src="/assaults.png" alt="" width="100%"/>  |  <img src="/gsws.png" alt="" width="100%"/>
+
+<sup><sub>First derivatives >0 indicate the injury rate is increasing. First derivatives <0 indicate the injury rate is decreasing. When the 95% CI for the first derivatives does not contain 0, that indicates a period of significant change; these periods are shown with darker grays and bolded lines. </sup></sub>
+
+
+
+
 
 <br>
 <br>
 <br>
 
-## Figure 3. Map of region.
+## Exploratory analyses
 
-<img src="/Map of DPD regions and THD service area.png" alt="Figure showing trauma patient volume" width="80%"/>
+<img src="/SPPT analysis of beats for poster.png" alt="Figure showing police beats with significant changes in violent crime" width="70%" align = "right"/>
 
-<br>
-<br>
-<br>
+Additional exploratory analyses using spatial point pattern testing showed violent crime only significantly changed in six Dallas police beats when comparing 12 months pre/post PSND implementation.
 
-## Figure 4. Police beats with significant changes in violent crime.
+Two beats (#216 & #254) in the target area experienced significant decreases in violent crime, but only the decrease in beat #216 remained significant after adjusting for multiple testing.
 
-<img src="/SPPT analysis of beats for poster.png" alt="Figure showing police beats with significant changes in violent crime" width="80%"/>
+Both of these decreases were offset by increases in beats #218 and #651. 
 
-Only beats with significant differences *after* adjusting for multiple testing are shown
+The increase in beat #218 (in the target area) was not significant after adjusting for multiple testing.
 
-<br>
-<br>
-<br>
-
-## Figure 5. Police beats with significant and near-significant changes in violent crime.
-
-<img src="/SPPT analysis of beats for poster - more shown.png" alt="Figure showing trauma patient volume" width="80%"/>
-
-Only beats with significant differences *before* adjusting for multiple testing are shown
+However, the increase in beat #651 (just outside of the target areas) was significant and larger than both of the decreases in the target area (OR = 7.08; 95% CI = 2.50, 29.67; p < 0.001; p adjusted = 0.014).
 
 
 <br>
-<br>
+  
+Showing beats with significant differences *before* adjusting for multiple testing |  Showing beats with significant differences *after* adjusting for multiple testing
+:-------------------------:|:-------------------------:
+<img src="/SPPT analysis of beats for poster - more shown.png" alt="" width="100%"/>  |  <img src="/SPPT analysis of beats for poster.png" alt="" width="100%"/>
