@@ -8,7 +8,7 @@ The target area largely overlaps with the authors’ institutional service area,
 
 <br>
 
-<img src="/Map of DPD regions and THD service area.png" alt="Figure showing trauma patient volume" width="80%"/>
+<img src="/Map of DPD regions and THD service area.png" alt="Figure showing trauma patient volume" width="80%" align="center"/>
 
 
 <br>
@@ -31,7 +31,7 @@ Estimates of the first derivatives were used to find and determine periods of si
 <br>
 <br>
 
-<img src="/Dallas crime rates vs county FOR POSTER.png" alt="Figure showing violent crime rates" width="50%" align="right"/>
+<img src="/Dallas crime rates vs county FOR POSTER.png" alt="Figure showing violent crime rates" width="60%" align="right"/>
 
 <br>
 
@@ -87,7 +87,7 @@ Estimates of the first derivatives were used to find and determine periods of si
 <br>
 <br>
 
-<img src="/Patient volume rates for web.png" alt="Figure showing trauma patient volume" width="50%" align="right"/>
+<img src="/Patient volume rates for web.png" alt="Figure showing trauma patient volume" width="60%" align="right"/>
 
 <br>
 <br>
