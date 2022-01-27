@@ -31,23 +31,11 @@ Estimates of the first derivatives were used to find and determine periods of si
 <br>
 <br>
 
-<img src="/Dallas crime rates vs county FOR POSTER.png" alt="Figure showing violent crime rates" width="60%" align="right"/>
-
-<br>
-
-Violent crime was consistently higher in the target area than the rest of the city of Dallas & the countywide average. 
-<br>
+| <!-- --> | <!-- -->  |
+:-------------------------|:-------------------------:
+| <ul><li>Violent crime was consistently higher in the target area than the rest of the city of Dallas & the countywide average.</li><br><li>From Nov. 2017 to July 2018, violent crime in the target area was significantly higher than in the non-target area of Dallas.</li></ul> |  <img src="/Dallas crime rates vs county FOR POSTER.png" alt="Figure showing violent crime rates" width="100%"/>|
 
 
-From Nov. 2017 to July 2018, violent crime in the target area was significantly higher than in the non-target area of Dallas.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -86,32 +74,16 @@ Estimates of the first derivatives were used to find and determine periods of si
 <br>
 <br>
 <br>
-
-<img src="/Patient volume rates for web.png" alt="Figure showing trauma patient volume" width="60%" align="right"/>
-
-<br>
-<br>
-
-After long-running decreases, firearm & assaultive injuries began to rise after PSND.  
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+  
+  
+| <!-- --> | <!-- -->  |
+:-------------------------|:-------------------------:
+| <ul><li>After long-running decreases, firearm & assaultive injuries began to rise after PSND.</li></ul> |  <img src="/Patient volume rates for web.png" alt="Figure showing trauma patient volume" width="100%"/>|
 
 
-
-
+<br>
+<br>
+<br>
 
 Assaultive Injuries |  Firearm Injuries
 :-------------------------:|:-------------------------:
